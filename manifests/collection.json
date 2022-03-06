@@ -1,0 +1,13 @@
+{
+  "id" : "https://kristinkonstantinova.github.io/UkrainianArt/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in kristinkonstantinova/UkrainianArt project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/manifests/manifest.json",
+    "label" : "Maria Primachenko's folk art"
+  } ]
+}
