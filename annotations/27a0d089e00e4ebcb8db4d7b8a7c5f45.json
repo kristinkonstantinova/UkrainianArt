@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Baby rats in a sleigh",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Baby rats in a sleigh</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92448508",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-06T20:56:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1646600216408",
+    "dcterms:modified" : "2022-03-06T20:56:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=590,605,332,309"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M590.19178,605.32192h166.17123v0h166.17123v154.7363v154.7363h-166.17123h-166.17123v-154.7363z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9f8108f6-3056-412d-992b-ff8dc0f69aa0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c78514b3-d2a6-4fa5-8a08-20fab562704d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rat on a journey",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rat on a journey</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92448508",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-06T20:56:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1646600201913",
+    "dcterms:modified" : "2022-03-06T20:56:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1210,623,264,508"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1210.21918,623.10959h131.86644v0h131.86644v253.83904v253.83904h-131.86644h-131.86644v-253.83904z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_59f0c7e1-31e2-47f4-9b9c-fb24ba9ad373\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c78514b3-d2a6-4fa5-8a08-20fab562704d"
+    } ]
+  } ],
+  "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/annotations/27a0d089e00e4ebcb8db4d7b8a7c5f45.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
