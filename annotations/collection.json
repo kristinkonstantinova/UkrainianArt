@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://kristinkonstantinova.github.io/UkrainianArt/annotations/1d3a563992e76f76485180328800acd3.json" ],
+  "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/annotations/collection.json",
+  "label" : "All annotations loaded in kristinkonstantinova/UkrainianArt project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
