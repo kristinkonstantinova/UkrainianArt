@@ -42,6 +42,11 @@
         },
         "on" : "http://e4ec9d10-b403-4294-ba47-2e43ef8860e0"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/annotations/f1b3a59431217a7d28e447ddbe3e99a3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://4f62f393-4936-4a7b-90e2-6203832cbcb2",
@@ -67,6 +72,11 @@
           "width" : 600
         },
         "on" : "http://4f62f393-4936-4a7b-90e2-6203832cbcb2"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/annotations/6f80a1d98f36fd97351195b9634fd409.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -94,6 +104,11 @@
         },
         "on" : "http://c78514b3-d2a6-4fa5-8a08-20fab562704d"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/annotations/27a0d089e00e4ebcb8db4d7b8a7c5f45.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://2e47af70-5537-430d-9483-b0bb6d6f5f54",
@@ -119,6 +134,11 @@
           "width" : 1200
         },
         "on" : "http://2e47af70-5537-430d-9483-b0bb6d6f5f54"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/annotations/1d3a563992e76f76485180328800acd3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
