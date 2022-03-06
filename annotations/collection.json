@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://kristinkonstantinova.github.io/UkrainianArt/annotations/1d3a563992e76f76485180328800acd3.json", "https://kristinkonstantinova.github.io/UkrainianArt/annotations/6f80a1d98f36fd97351195b9634fd409.json" ],
+  "otherContent" : [ "https://kristinkonstantinova.github.io/UkrainianArt/annotations/1d3a563992e76f76485180328800acd3.json", "https://kristinkonstantinova.github.io/UkrainianArt/annotations/6f80a1d98f36fd97351195b9634fd409.json", "https://kristinkonstantinova.github.io/UkrainianArt/annotations/27a0d089e00e4ebcb8db4d7b8a7c5f45.json" ],
   "@id" : "https://kristinkonstantinova.github.io/UkrainianArt/annotations/collection.json",
   "label" : "All annotations loaded in kristinkonstantinova/UkrainianArt project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
